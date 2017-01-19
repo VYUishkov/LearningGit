@@ -28,6 +28,11 @@
 *.iml
 *.ipr
 
+# For my project
+LearningGit.iml
+LearningGit.ipr
+LearningGit.iws
+
 ## Plugin-specific files:
 
 # IntelliJ
