@@ -27,6 +27,7 @@
 *.iws
 *.iml
 *.ipr
+*.sql
 
 # For my project
 LearningGit.iml
